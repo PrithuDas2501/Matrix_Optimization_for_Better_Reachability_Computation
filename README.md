@@ -225,16 +225,3 @@ Consequently:
 ## Acknowledgment
 
 The uncertain reachability comparisons and road-scenario visualizations use the CORA toolbox.
-
-## Citation
-
-A publication citation can be added here when the associated paper is available:
-
-```bibtex
-@article{das_reachable_set_optimization,
-  author  = {Das, Hrishav and Ornik, Melkior},
-  title   = {Directional Reachable-Set Optimization under Matrix Uncertainty},
-  journal = {To appear},
-  year    = {2026}
-}
-```
